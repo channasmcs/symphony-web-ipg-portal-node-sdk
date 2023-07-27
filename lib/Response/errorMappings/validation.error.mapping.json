@@ -1,0 +1,4 @@
+{
+  "301001":{"responseCode":301001,"message":"{0} is Required"},
+  "302001":{"responseCode":302001,"message":"{0} Not a Valid Type"}
+}
